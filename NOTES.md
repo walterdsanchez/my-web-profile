@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
+**Student:** Walter Duvan Sanchez Hernandez.
 **Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Date:** [30/08/2026]
 
 ---
 
@@ -31,7 +31,8 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> I left out the specific location “Purificación, Tolima, Colombia” from the English version. I removed it because the English version was focused more on my academic and professional information, and the exact location was not essential to describe my profile.
+
 
 ---
 
@@ -40,7 +41,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> One technical term I kept in English is “GitHub.” I did not translate it because GitHub is the official name of the platform, and translating it would make the text sound incorrect or unnatural.
 
 ---
 
@@ -50,11 +51,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Desarrollo de aplicaciones web interactivas utilizando HTML, CSS y JavaScript, implementando ejercicios de lógica de programación, cálculos matemáticos, estructuras condicionales, ciclos y manejo de eventos.
 >
-> English: [copy your sentence here]
+> English: I develop interactive web applications using HTML, CSS, and JavaScript, applying programming logic, mathematical calculations, conditional statements, loops, and event handling.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> [The sentence was difficult because a word-by-word translation sounded unnatural in English. I changed the structure and used common technical terms such as “conditional statements,” “loops,” and “event handling” to make it sound more natural and professional.
 
 ---
 
@@ -64,10 +65,7 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+> I used an AI tool to help me translate and improve my English version. I also used it to check technical vocabulary and make some sentences sound more natural instead of translating them word by word.
 
 ---
 
