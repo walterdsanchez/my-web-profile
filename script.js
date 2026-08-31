@@ -54,31 +54,31 @@ const ES = {
   "resume.title":      "Formación y experiencia",
   "resume.education":  "Formación",
   "resume.experience": "Experiencia",
-
+   
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Actualmente curso el Técnico Profesional en Programación Web, donde desarrollo conocimientos en programación, bases de datos, desarrollo frontend y backend. A través de proyectos prácticos, busco fortalecer mis habilidades y prepararme para el desarrollo de soluciones web.",
+  //"edu.2.title": "[Curso o certificación]",
+  //"edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Desarrollo de Aplicaciones web",
+  "exp.1.text":  "Desarrollo de aplicaciones web interactivas utilizando HTML, CSS y JavaScript, implementando ejercicios de lógica de programación, cálculos matemáticos, estructuras condicionales, ciclos y manejo de eventos. El resultado es un conjunto de aplicaciones funcionales que permiten practicar y demostrar diferentes conceptos de programación web.",
+ // "exp.2.title": "[Rol o tipo de proyecto]",
+  //"exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Área de un terreno",
+  "project.1.text":  "HTML | CSS | JavaScript",
+  "project.2.title": "Presupuesto de banquete",
+  "project.2.text":  "HTML | CSS | JavaScript",
+  "project.3.title": "Promedios",
+  "project.3.text":  "HTML | CSS | JavaScript",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "¿Tienes alguna propuesta, proyecto o simplemente quieres hablar sobre desarrollo web? ¡No dudes en contactarme!",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Walter Sánchez · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -130,29 +130,29 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "I am currently pursuing a Professional Technician program in Web Programming, where I am developing skills in programming, databases, and frontend and backend development. Through practical projects, I aim to strengthen my abilities and prepare for developing web solutions.",
+//  "edu.2.title": "[Course or certificate]",
+  //"edu.2.text":  "[What you learned and how you use it.]",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Web Application Development",
+  "exp.1.text":  "Development of interactive web applications using HTML, CSS, and JavaScript, incorporating programming logic exercises, mathematical calculations, conditional structures, loops, and event handling. The result is a set of functional applications that allow for practicing and demonstrating various web programming concepts.",
+//  "exp.2.title": "[Role or type of project]",
+  //"exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Area of ​​a plot of land",
+  "project.1.text":  "HTML | CSS | JavaScript",
+  "project.2.title": "Banquet budget",
+  "project.2.text":  "HTML | CSS | JavaScript",
+  "project.3.title": "Averages",
+  "project.3.text":  "HTML | CSS | JavaScript",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "Do you have a proposal or project, or do you simply want to talk about web development? Don't hesitate to contact me!",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Walter Sánchez · Professional Technician in Web Programming · UniEspinal"
 };
 
 
