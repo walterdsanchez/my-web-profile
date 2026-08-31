@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> I left out the specific location “Purificación, Tolima, Colombia” from the English version. I removed it because the English version was focused more on my academic and professional information, and the exact location was not essential to describe my profile.
+> I left out the specific location “Purificación, Colombia” from the English version. I removed it because the English version was focused more on my academic and professional information, and the exact location was not essential to describe my profile.
 
 
 ---
