@@ -76,7 +76,7 @@ const ES = {
   "contact.title":         "Contacto",
   "contact.intro":         "¿Tienes alguna propuesta, proyecto o simplemente quieres hablar sobre desarrollo web? ¡No dudes en contactarme!",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "",
+  "contact.linkedinValue": "https://www.linkedin.com/in/walter-duv%C3%A1n-s%C3%A1nchez-hern%C3%A1ndez-ba24a3434/",
 
   "footer.note": "Walter Sánchez · Técnico Profesional en Programación Web · UniEspinal"
 };
@@ -150,7 +150,7 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "Do you have a proposal or project, or do you simply want to talk about web development? Don't hesitate to contact me!",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "",
+  "contact.linkedinValue": "https://www.linkedin.com/in/walter-duv%C3%A1n-s%C3%A1nchez-hern%C3%A1ndez-ba24a3434/",
 
   "footer.note": "Walter Sánchez · Professional Technician in Web Programming · UniEspinal"
 };
